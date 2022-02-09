@@ -33,3 +33,5 @@ x.remove()
 x.display()
 x.removeleft()
 x.display()
+#x.remove()
+
